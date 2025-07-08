@@ -1,5 +1,3 @@
-# UIEAnythingv2
-
 # Robust-SeaThru:A Physics-Guided Underwater Image Restoration Model with Percentile-based Backscatter Estimation
 
 please download depthanythingv2 model by yourself
